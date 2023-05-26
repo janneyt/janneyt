@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ted Janney</h1>
-<h3 align="center">A data obsessed engineer from the US</h3>
+<h1 align="center">Hi, I'm Ted Janney</h1>
+<h3 align="center">A Computer Scientist from the US</h3>
 
 - 🔭 I’m currently working on [Slave Transactions and Machine Learning](https://github.com/janneyt/slaveTransactionsLouisiana)
 
